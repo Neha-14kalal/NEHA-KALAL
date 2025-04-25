@@ -1,2 +1,4 @@
 # NEHA-KALAL
-This is my first GITHUB repository
+This is my first GIT repository
+<br>
+AUTHOR - Neha Kalal
